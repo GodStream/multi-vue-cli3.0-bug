@@ -22,7 +22,7 @@ function getEntry () {
       entry,
       filename,
       template: htmlPath,
-      title: '一品良驹'
+      title: '测试'
     }
     rewrites.push({ from: new RegExp('^/' + pathName + '$'), to: `/${pathName}.html` })
   })
