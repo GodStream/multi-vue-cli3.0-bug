@@ -1,22 +1,13 @@
 <template>
   <div class="gj-container">
-    <a href="/test26/list">test26/list</a>
+    <a href="/test28/list">test28/list</a>
   </div>
 </template>
 
 <script>
 export default {
   data () {
-    return {
-      bannerList: [
-        { imageUrl: require('@/assets/banner/banner005.png') },
-        { imageUrl: require('@/assets/banner/banner1.png') },
-        { imageUrl: require('@/assets/banner/banner009.png') },
-        { imageUrl: require('@/assets/banner/banner100.png') }
-      ],
-      advertiseList: [],
-      vehicleList: []
-    }
+    return {}
   },
   created () {
   },

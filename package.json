@@ -1,5 +1,5 @@
 {
-  "name": "yp-webapp-next",
+  "name": "test",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,6 @@
     "fix-memory-limit": "LIMIT=2048 increase-memory-limit"
   },
   "dependencies": {
-    "@gejoy/webapp": "^0.1.2",
     "amfe-flexible": "^2.2.1",
     "axios": "^0.18.0",
     "cube-ui": "^1.12.5",

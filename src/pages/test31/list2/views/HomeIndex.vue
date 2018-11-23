@@ -1,6 +1,6 @@
 <template>
   <div class="gj-container">
-    <a href="/test20">test20</a>
+    <a href="/test33">test33</a>
   </div>
 </template>
 
