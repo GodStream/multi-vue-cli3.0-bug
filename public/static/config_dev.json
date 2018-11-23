@@ -1,0 +1,4 @@
+{
+  "api": "http://api.sanjia-soft.com:8000/apipool",
+  "uploadUrl": "http://gw.sanjia-soft.com/upload/uploadImage.php"
+}
